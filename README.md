@@ -20,3 +20,14 @@ SI	Pin 11
 CS	Pin 8
 
 Arduino Uno
+
+Refreneces:
+
+http://jeelabs.org/pub/docs/ethercard/index.html
+
+http://www.lucadentella.it/en/category/enc28j60-arduino/
+
+Server website:
+
+sburc.ir
+
