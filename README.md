@@ -4,11 +4,15 @@ Thanks Omid Dehghan nirir
 SBU Robotic 
 
 Pin outs:
-VCC\n3.3V
-GND	\nGND
-SCK	\nPin 13
-SO	\nPin 12
-SI	\nPin 11
-CS	\nPin 8
+
+VCC 3.3V
+
+GND	GND
+
+SCK	Pin 13
+
+SO	Pin 12
+SI	Pin 11
+CS	Pin 8
 
 Arduino Uno
